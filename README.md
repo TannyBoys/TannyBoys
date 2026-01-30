@@ -10,7 +10,7 @@
 - 🎯 My goal is to develop strong Business & System Analysis skills and grow into a Project Manager who drives projects with data and clear communication.
 
 ## 💻 My Tech Stack 🧰
-**🌐 Frontend**
+### 🌐 Frontend
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=html" /> 
@@ -32,20 +32,21 @@
   </a> 
 </p>
 
-**🖥 Backend**
+### 🖥 Backend
 <p align="left"> 
   <a href="https://nodejs.org/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=nodejs" /> 
   </a> 
 </p>
-**🗄 Database**
+
+### 🗄 Database
 <p align="left"> 
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=mysql" /> 
   </a> 
 </p>
 
-**📊 Data & Analytics**
+### 📊 Data & Analytics
 <p align="left">
   <a href="https://www.tableau.com/" target="_blank">
     <img src="assets/tableau.png" height="48"/>
@@ -61,7 +62,7 @@
   </a>
 </p>
 
-**🤖 Machine Learning / AI**
+### 🤖 Machine Learning / AI
 <p align="left"> 
   <a href="https://scikit-learn.org/" target="_blank"> 
     <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48"/> 
@@ -71,7 +72,7 @@
   </a> 
 </p>
 
-**🧠 Programming Languages**
+### 🧠 Programming Languages
 <p align="left"> 
   <a href="https://www.java.com/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=java" /> 
@@ -90,7 +91,7 @@
   </a> 
 </p>
 
-**🎨 Design & System Tools**
+### 🎨 Design & System Tools
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=figma" /> 
@@ -99,7 +100,7 @@
   </a> 
 </p>
 
-**📱 Mobile & IDEs**
+### 📱 Mobile & IDEs
 <p align="left"> 
   <a href="https://developer.android.com/studio" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=androidstudio" /> 
@@ -109,9 +110,7 @@
   </a> 
 </p>  
 
-
-
-**🛠 Tools & Version Control**
+### 🛠 Tools & Version Control
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=git" /> 
