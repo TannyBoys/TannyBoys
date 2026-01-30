@@ -45,16 +45,16 @@
 📊 Data & Analytics
 <p align="left">
   <a href="https://www.tableau.com/" target="_blank">
-    <img src="assets/tableau" height="48"/>
+    <img src="assets/tableau.png" height="48"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="assets/powerbi" height="48"/>
+    <img src="assets/powerbi.png" height="48"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="assets/pandas" height="48"/>
+    <img src="assets/pandas.png" height="48"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="assets/seaborn" height="48"/>
+    <img src="assets/seaborn.png" height="48"/>
   </a>
 </p>
 🤖 Machine Learning / AI
@@ -127,7 +127,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://public.tableau.com/app/profile/pannatron.sr" target="_blank">
-    <img src="assets/tableau" height="48"/>
+    <img src="assets/tableau.png" height="48"/>
   </a>
   <a href="https://www.salesforce.com/trailblazer/pannatron-sr" target="_blank">
     <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="48"/>
