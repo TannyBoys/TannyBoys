@@ -4,15 +4,11 @@
 📍 Kasetsart University, Faculty of Science  
 🌱 Interested in Business Analysis, Project Management, and Web Development  
 
----
-
 ## 🧑‍💻 About Me
 - 📊 Interested in **Business Analysis (BA)** & **Product / Project Management**
 - 🌐 Experience with **Vue.js**, **JSON Server**, and basic backend concepts
 - 📈 Enjoy turning requirements into clear system flows & usable products
 - 📚 Currently learning **System Analysis, UX thinking, and Data tools**
-
----
 
 ## 💻 My Tech Stack 🧰
 🌐 Frontend
@@ -22,7 +18,20 @@
 🗄 Database
 <p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" /> </a> </p>
 📊 Data & Analytics
-<p align="left"> <a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.simpleicons.org/tableau/E97627" height="48"/> </a> <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48"/> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=pandas" /> </a> <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="48"/> </a> </p>
+<p align="left">
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/tableau/E97627" height="48"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pandas" />
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="48"/>
+  </a>
+</p>
 🤖 Machine Learning / AI
 <p align="left"> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48"/> </a> <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=tensorflow" /> </a> </p>
 🎨 Design & System Tools
@@ -34,8 +43,6 @@
 📱 Mobile & IDEs
 <p align="left"> <a href="https://developer.android.com/studio" target="_blank"> <img src="https://skillicons.dev/icons?i=androidstudio" /> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode" /> </a> </p>  
 
----
-
 ## 📂 Featured Projects
 ### 🔹 Student Academic Management System
 - Vue.js + JSON Server
@@ -43,19 +50,24 @@
 - Focus on usability & clean UI  
 👉 Repo: [project214_6630200373](https://github.com/TannyBoys/project214_6630200373)
 
----
-
 ## 🏆 Certifications & Learning
 - Salesforce Trailhead Badges  
 - Tableau Public Projects  
 
----
-
 ## 🔗 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/pannatron-sr  
-- 📊 Tableau: https://public.tableau.com/app/profile/pannatron.sr  
-- ☁ Salesforce: https://www.salesforce.com/trailblazer/pannatron-sr  
-
----
+<p align="left">
+  <a href="https://linkedin.com/in/pannatron-sr" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/TannyBoys" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/pannatron.sr" target="_blank">
+    <img src="https://cdn.simpleicons.org/tableau/E97627" height="48"/>
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/pannatron-sr" target="_blank">
+    <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="48"/>
+  </a>
+</p>
 
 ⭐ Feel free to explore my repositories and projects!
