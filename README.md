@@ -10,7 +10,7 @@
 - 🎯 My goal is to develop strong Business & System Analysis skills and grow into a Project Manager who drives projects with data and clear communication.
 
 ## 💻 My Tech Stack 🧰
-### 🌐 Frontend
+**🌐 Frontend**
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=html" /> 
@@ -21,27 +21,31 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=js" /> 
   </a> 
+  <a href="https://getbootstrap.com/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=bootstrap" /> 
+  </a>
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=vue" /> 
-  </a> <a href="https://getbootstrap.com/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=bootstrap" /> 
-  </a> <a href="https://vitejs.dev/" target="_blank"> 
+  </a> 
+  <a href="https://vitejs.dev/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=vite" /> 
   </a> 
 </p>
-### 🖥 Backend
+
+**🖥 Backend**
 <p align="left"> 
   <a href="https://nodejs.org/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=nodejs" /> 
   </a> 
 </p>
-🗄 Database
+**🗄 Database**
 <p align="left"> 
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=mysql" /> 
   </a> 
 </p>
-### 📊 Data & Analytics
+
+**📊 Data & Analytics**
 <p align="left">
   <a href="https://www.tableau.com/" target="_blank">
     <img src="assets/tableau.png" height="48"/>
@@ -56,7 +60,8 @@
     <img src="assets/seaborn.png" height="48"/>
   </a>
 </p>
-### 🤖 Machine Learning / AI
+
+**🤖 Machine Learning / AI**
 <p align="left"> 
   <a href="https://scikit-learn.org/" target="_blank"> 
     <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48"/> 
@@ -65,23 +70,8 @@
     <img src="https://skillicons.dev/icons?i=tensorflow" /> 
   </a> 
 </p>
-### 🎨 Design & System Tools
-<p align="left"> 
-  <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=figma" /> 
-  </a> <a href="https://www.drawio.com/" target="_blank"> 
-    <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" height="48"/>
-  </a> 
-</p>
-### 🛠 Tools & Version Control
-<p align="left"> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=git" /> 
-  </a> <a href="https://github.com/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=github" /> 
-  </a> 
-</p>
-### 🧠 Programming Languages
+
+**🧠 Programming Languages**
 <p align="left"> 
   <a href="https://www.java.com/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=java" /> 
@@ -99,7 +89,17 @@
     <img src="https://cdn.simpleicons.org/r/276DC3" height="48"/> 
   </a> 
 </p>
-### 📱 Mobile & IDEs
+
+**🎨 Design & System Tools**
+<p align="left"> 
+  <a href="https://www.figma.com/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=figma" /> 
+  </a> <a href="https://www.drawio.com/" target="_blank"> 
+    <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" height="48"/>
+  </a> 
+</p>
+
+**📱 Mobile & IDEs**
 <p align="left"> 
   <a href="https://developer.android.com/studio" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=androidstudio" /> 
@@ -108,6 +108,17 @@
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a> 
 </p>  
+
+
+
+**🛠 Tools & Version Control**
+<p align="left"> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=git" /> 
+  </a> <a href="https://github.com/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=github" /> 
+  </a> 
+</p>
 
 ## 📂 Featured Projects
 ### 🔹 Student Academic Management System
