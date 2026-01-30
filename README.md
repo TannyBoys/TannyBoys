@@ -1,17 +1,16 @@
-# Hi there 👋 I'm Pannatron (TannyBoys)
+# Hi there 👋 I'm Pannatron (Tan)
 
 🎓 Computer Science student  
 📍 Kasetsart University, Faculty of Science  
-🌱 Interested in Business Analysis, Project Management, and Web Development  
+🌱 Interested in Business & System Analysis, and Project Management
 
 ## 🧑‍💻 About Me
-- 📊 Interested in **Business Analysis (BA)** & **Product / Project Management**
-- 🌐 Experience with **Vue.js**, **JSON Server**, and basic backend concepts
-- 📈 Enjoy turning requirements into clear system flows & usable products
-- 📚 Currently learning **System Analysis, UX thinking, and Data tools**
+- 📈 Enjoy turning traditional business processes into clear system flows and improving product usability
+- 📚 Currently learning System Analysis, UX Thinking, and Data Tools
+- 🎯 My goal is to develop strong Business & System Analysis skills and grow into a Project Manager who drives projects with data and clear communication.
 
 ## 💻 My Tech Stack 🧰
-🌐 Frontend
+### 🌐 Frontend
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=html" /> 
@@ -30,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=vite" /> 
   </a> 
 </p>
-🖥 Backend
+### 🖥 Backend
 <p align="left"> 
   <a href="https://nodejs.org/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=nodejs" /> 
@@ -42,7 +41,7 @@
     <img src="https://skillicons.dev/icons?i=mysql" /> 
   </a> 
 </p>
-📊 Data & Analytics
+### 📊 Data & Analytics
 <p align="left">
   <a href="https://www.tableau.com/" target="_blank">
     <img src="assets/tableau.png" height="48"/>
@@ -57,7 +56,7 @@
     <img src="assets/seaborn.png" height="48"/>
   </a>
 </p>
-🤖 Machine Learning / AI
+### 🤖 Machine Learning / AI
 <p align="left"> 
   <a href="https://scikit-learn.org/" target="_blank"> 
     <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48"/> 
@@ -66,7 +65,7 @@
     <img src="https://skillicons.dev/icons?i=tensorflow" /> 
   </a> 
 </p>
-🎨 Design & System Tools
+### 🎨 Design & System Tools
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=figma" /> 
@@ -74,7 +73,7 @@
     <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" height="48"/>
   </a> 
 </p>
-🛠 Tools & Version Control
+### 🛠 Tools & Version Control
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=git" /> 
@@ -82,7 +81,7 @@
     <img src="https://skillicons.dev/icons?i=github" /> 
   </a> 
 </p>
-🧠 Programming Languages
+### 🧠 Programming Languages
 <p align="left"> 
   <a href="https://www.java.com/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=java" /> 
@@ -100,7 +99,7 @@
     <img src="https://cdn.simpleicons.org/r/276DC3" height="48"/> 
   </a> 
 </p>
-📱 Mobile & IDEs
+### 📱 Mobile & IDEs
 <p align="left"> 
   <a href="https://developer.android.com/studio" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=androidstudio" /> 
@@ -118,19 +117,13 @@
 👉 Repo: [project214_6630200373](https://github.com/TannyBoys/project214_6630200373)
 
 ## 🏆 Certifications & Learning
-- Salesforce Trailhead Badges  
-- Tableau Public Projects  
+- [Salesforce Trailhead Badges](https://www.salesforce.com/trailblazer/pannatron-sr)  
+- [Tableau Public Projects](https://public.tableau.com/app/profile/pannatron.sr)  
 
 ## 🔗 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/pannatron-sr" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://public.tableau.com/app/profile/pannatron.sr" target="_blank">
-    <img src="assets/tableau.png" height="48"/>
-  </a>
-  <a href="https://www.salesforce.com/trailblazer/pannatron-sr" target="_blank">
-    <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="48"/>
   </a>
 </p>
 
