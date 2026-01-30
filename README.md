@@ -137,4 +137,4 @@
   </a>
 </p>
 
-⭐ Feel free to explore my repositories and projects!
+⭐ *Feel free to explore my repositories and projects!*
