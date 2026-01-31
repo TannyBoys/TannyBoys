@@ -119,13 +119,6 @@
   </a> 
 </p>
 
-## 📂 Featured Projects
-### 🔹 Student Academic Management System
-- Vue.js + JSON Server
-- CRUD student & subject data
-- Focus on usability & clean UI  
-👉 Repo: [project214_6630200373](https://github.com/TannyBoys/project214_6630200373)
-
 ## 🏆 Certifications & Learning
 - [Salesforce Trailhead Badges](https://www.salesforce.com/trailblazer/pannatron-sr)  
 - [Tableau Public Projects](https://public.tableau.com/app/profile/pannatron.sr)  
