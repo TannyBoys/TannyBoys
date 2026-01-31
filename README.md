@@ -9,6 +9,19 @@
 - 📚 Currently learning System Analysis, UX Thinking, and Data Tools
 - 🎯 My goal is to develop strong Business & System Analysis skills and grow into a Project Manager who drives projects with data and clear communication.
 
+## 🏆 Certifications & Learning
+- [Salesforce Trailhead Badges](https://www.salesforce.com/trailblazer/pannatron-sr)  
+- [Tableau Public Projects](https://public.tableau.com/app/profile/pannatron.sr)  
+
+## 🔗 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/pannatron-sr" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+⭐ *Feel free to explore my repositories and projects!*
+
 ## 💻 My Tech Stack 🧰
 ### 🌐 Frontend
 <p align="left"> 
@@ -118,16 +131,3 @@
     <img src="https://skillicons.dev/icons?i=github" /> 
   </a> 
 </p>
-
-## 🏆 Certifications & Learning
-- [Salesforce Trailhead Badges](https://www.salesforce.com/trailblazer/pannatron-sr)  
-- [Tableau Public Projects](https://public.tableau.com/app/profile/pannatron.sr)  
-
-## 🔗 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/pannatron-sr" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
-⭐ *Feel free to explore my repositories and projects!*
