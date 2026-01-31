@@ -10,8 +10,8 @@
 - 🎯 My goal is to develop strong Business & System Analysis skills and grow into a Project Manager who drives projects with data and clear communication.
 
 ## 🏆 Certifications & Learning
-- [Salesforce Trailhead Badges](https://www.salesforce.com/trailblazer/pannatron-sr)  
-- [Tableau Public Projects](https://public.tableau.com/app/profile/pannatron.sr)  
+- [Salesforce Trailhead Badges ☁️](https://www.salesforce.com/trailblazer/pannatron-sr)  
+- [Tableau Public Projects 📊](https://public.tableau.com/app/profile/pannatron.sr)  
 
 ## 🔗 Connect with Me
 <p align="left">
