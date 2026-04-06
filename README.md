@@ -2,12 +2,12 @@
 
 🎓 Computer Science student  
 📍 Kasetsart University, Faculty of Science  
-🌱 Interested in Business & System Analysis, and Project Management
+🌱 Interested in Data Analyst and Business & System Analysis
 
 ## 🧑‍💻 About Me
 - 📈 Enjoy turning traditional business processes into clear system flows and improving product usability
 - 📚 Currently learning System Analysis, UX Thinking, and Data Tools
-- 🎯 My goal is to develop strong Business & System Analysis skills and grow into a Project Manager who drives projects with data and clear communication.
+- 🎯 My goal is to develop strong Data Analyst skills and grow into a Data Scientist.
 
 ## 🏆 Certifications & Learning
 - [Salesforce Trailhead Badges ☁️](https://www.salesforce.com/trailblazer/pannatron-sr)  
